@@ -4,12 +4,16 @@
 - Permet una comprensio molt més clara dels textos.
 - Funciona principalment per fer documents simples o documentació.
 
-# Com utilitzar markdown dins de GitHub. Exemples visuals
+# Com utilitzar markdown dins de GitHub. 
+## Exemples visuals
 [Exemple1 - Documentació](https://github.com/AvenproTeam/AvenBonva/tree/main/schematics/Taules%20de%20Pin)
 
 [Exemple2 - Readme](https://github.com/AvenproTeam/AvenBonva/blob/main/README.md)
 
 [Exemple3 - A la realitat](https://github.com/microsoft/markitdown/blob/main/README.md)
+
+# Exemple a càrreg de Daniel Camprubí
+Ubicat a l'arxiu dins del directori principal `/exemple.md`
 
 
 # WIKI:
