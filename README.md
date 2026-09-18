@@ -4,7 +4,7 @@
 
 Els Linters són eines utilitzades per verificar codi. Serveixen per detectar errors inclosos els de format abans de l'execució, i també apliquen un format uniforme a tot el document. 
 
-### Per que serveix.
+### Perquè serveix.
 
 - Detecta Errors.
 - Unifica l'estil.
@@ -13,13 +13,13 @@ Els Linters són eines utilitzades per verificar codi. Serveixen per detectar er
 
 ## ESLint
 
-ESLint es un Linter que serveix per els llenguatges JavaScript i TypeScript.
+ESLint és un Linter que serveix per als llenguatges JavaScript i TypeScript.
 
 ### Com per-ho servir
 
-Primer necesitarem el ESLint en local desprès l'extenció de Visual Code.
+Primer necessitarem el ESLint en local després l'extensió de Visual Code.
 
-Podem Installar ESLint amb **npm install --save-dev eslint**.
+Podem Instal·lar ESLint amb **npm install --save-dev eslint**.
 
 Per fer la configuració d'inici fem servir la comanda **npx eslint --init**.
 
